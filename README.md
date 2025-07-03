@@ -10,18 +10,6 @@ Pull Request
 
 Merge (handled as a merged PR for extra credit)
 
-🗂️ Project Structure
-
-webhook-repo/
-├── app.py              # Main Flask application
-├── utils.py            # Timestamp formatting utility
-├── templates/
-│   └── index.html      # Frontend UI template
-├── static/
-│   └── style.css       # CSS styles
-├── requirements.txt    # Python dependencies
-├── .env.example        # Environment variables sample
-└── README.md
 
 ⚙️ Setup Instructions
 
